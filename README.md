@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ### Run the Application
 ```bash
-python main.py
+python nas_run.py
 ```
 
 ### Deactivate the Virtual Environment
